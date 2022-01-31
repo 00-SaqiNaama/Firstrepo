@@ -1,3 +1,0 @@
-this is a sample file created for a test run
-we are in the git session
-adding third part
